@@ -1,0 +1,32 @@
+# Go build files
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Binary outputs
+/tasks
+
+# Vendor directory
+/vendor/
+
+# Go workspace files
+go.work
+
+# IDE specific files
+.idea/
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
