@@ -19,10 +19,11 @@ A simple command-line application for managing tasks using Go. This CLI app allo
 
    ```bash
    git clone https://github.com/m3hu1/golang-todo-cli.git
+   ```
 2. Navigate into the cloned repo:
    ```bash
    cd golang-todo-cli
-
+   ```
 2. Install dependencies:
 
    ```bash
